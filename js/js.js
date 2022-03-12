@@ -15,6 +15,7 @@ for (const arrows of arrow) {
     });
   });
 }
+/*this for the scroll back to home*/
 const navH = document.getElementById('nav');
 const topLink = document.querySelector('.top-link');
 window.addEventListener('scroll', function () {
