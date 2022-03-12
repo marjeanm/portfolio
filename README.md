@@ -102,6 +102,8 @@ This is also is the HTML form for submitting for email.
 ### Continued development
 
 Plans i have are to create a transistion bottom border on top nav items
+Also, make this fully responsive for tablets and mobile devices. 
+Create a blog that will connect to this portfolio. 
 
 ### Useful resources
 
